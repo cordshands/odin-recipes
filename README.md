@@ -1,1 +1,2 @@
 # odin-recipes
+This is really my first real project where I will be utilizing some fairly rudimentary level code to create a little recipe website. It will have a main index page with links to the recipes that should contain lists of ingredients (unordered), directions (ordered), as well as images of the dishes.
